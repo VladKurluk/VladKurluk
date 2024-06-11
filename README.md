@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vladkurluk.vladkurluk&"  />
+  ![](https://komarev.com/ghpvc/?username=vladkurluk&style=flat&color=brightgreen)
 </div>
