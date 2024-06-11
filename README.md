@@ -1,3 +1,3 @@
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=vladkurluk&style=flat&color=brightgreen)
+  <img src="https://komarev.com/ghpvc/?username=vladkurluk&style=flat&color=brightgreen" alt="Page visitors counter" />
 </div>
